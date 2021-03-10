@@ -1,1 +1,1 @@
-# zedinc-bot-altyap-
+# zedinc-bot-altyapi
